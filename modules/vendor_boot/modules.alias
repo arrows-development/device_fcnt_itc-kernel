@@ -230,6 +230,8 @@ alias of:N*T*Cmediatek,extcon-usb extcon_mtk_usb
 alias of:N*T*Cmediatek,extcon-usbC* extcon_mtk_usb
 alias of:N*T*Cmediatek,usb_meta meta
 alias of:N*T*Cmediatek,usb_metaC* meta
+alias of:N*T*Cmediatek,mt6363-lvsys-notify pmic_lvsys_notify
+alias of:N*T*Cmediatek,mt6363-lvsys-notifyC* pmic_lvsys_notify
 alias spmi:spmi-pmic mtk_spmi_pmic
 alias of:N*T*Cmediatek,mt6315 mtk_spmi_pmic
 alias of:N*T*Cmediatek,mt6315C* mtk_spmi_pmic
@@ -320,6 +322,8 @@ alias of:N*T*Cmediatek,mt2712-uart-dma mtk_uart_apdma
 alias of:N*T*Cmediatek,mt2712-uart-dmaC* mtk_uart_apdma
 alias of:N*T*Cmediatek,mt6779-uart-dma mtk_uart_apdma
 alias of:N*T*Cmediatek,mt6779-uart-dmaC* mtk_uart_apdma
+alias of:N*T*Cnt37801,cmd,fhd,10bit panel_nt37801_cmd_fhd_10bit
+alias of:N*T*Cnt37801,cmd,fhd,10bitC* panel_nt37801_cmd_fhd_10bit
 alias of:N*T*Cmediatek,mt6765-cqdma mtk_cqdma
 alias of:N*T*Cmediatek,mt6765-cqdmaC* mtk_cqdma
 alias of:N*T*Cmediatek,mt6375 mt6375
